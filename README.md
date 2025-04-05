@@ -7,4 +7,10 @@ Nitro generator in the big 2025 by the way 💔
 This code is mostly a joke. While it does do its job, the chances to generate a valid Nitro code are really close to impossible. Use this code if you really have nothing to do
 
 # Installation
-Pretty straightforward, it generates a bunch of strings and sends them to Discord. If it's valid, the code gets sent to a discord webhook that you have to configure
+Pretty straightforward, it generates a bunch of strings and sends them to Discord. If it's valid, the code gets sent to a discord webhook that you have to configure.
+
+Before running the code, open your terminal and type:
+
+```
+pip install requests
+```
